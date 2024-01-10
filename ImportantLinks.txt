@@ -20,3 +20,4 @@ Báo cáo: https://docs.google.com/document/d/1gkt6NRkArcxSgULSPjbtqQE9wAVP4UHLz
 HTB,DHT:https://docs.google.com/document/d/1XXXSQmZwpzTxF17C2UVMXkBYwLnqjNUnZujVLNMsHRc/edit?usp=sharing
 NHT: https://docs.google.com/document/d/1jnMjrnai4Claku_aOAEOxSeeZqgZPOBrSUDpXSI48Pw/edit?usp=sharing
 https://docs.google.com/document/d/1bArNceBBIz5Xl7ghV-alI4XQ6a254mSBxRK64nx-1h8/edit?usp=drivesdk
+VBNL: https://docs.google.com/document/d/15rqOZ9tIajG45_EvZ4dSL7BLRUUOSZGFz0xcYgKsiTQ/edit?usp=sharing
